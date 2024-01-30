@@ -9,7 +9,7 @@
 - 다른 사람의 코드를 보고 코드 리뷰할 경우, PR에 코멘트를 남깁니다.
 
 ## 백준 문제 만들기
-[이치윤](https://www.acmicpc.net/workbook/view/18136)
+[이치윤](https://www.acmicpc.net/workbook/view/18136/)
 
 ## 문제집
 - 1주차 ~ 10주차의 문제 목록이 있습니다.
