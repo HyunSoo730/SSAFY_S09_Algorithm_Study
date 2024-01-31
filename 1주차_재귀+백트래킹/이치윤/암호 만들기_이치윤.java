@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class A {
+public class Main {
 	static int L = 0;
 	static int C = 0;
 	static boolean visited[];
@@ -40,7 +40,7 @@ public class A {
 		}
 	}
 
-	// 조합
+	// 순열
 	static void permutation(int cnt) {
 		if (cnt == L) {
 			String result = "";
